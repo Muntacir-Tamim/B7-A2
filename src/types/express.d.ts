@@ -1,12 +1,12 @@
-// import type { RUser } from "./index";
+import type { RUser } from "./index";
 
-// declare global {
-//   namespace Express {
-//     interface Request {
-//       user?: RUser;
-//       cookies?: Record<string, string>;
-//     }
-//   }
-// }
+declare global {
+  namespace Express {
+    interface Request {
+      user?: RUser;
+      cookies?: Record<string, string>;
+    }
+  }
+}
 
-// export {};
+export {};
