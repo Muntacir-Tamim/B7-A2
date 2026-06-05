@@ -4,7 +4,7 @@
 
 ## Live URL
 
-> `https://devplus-alpha.vercel.app/` _(update after deployment)_
+> `https://devplus-alpha.vercel.app/`
 
 ## Features
 
